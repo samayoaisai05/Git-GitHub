@@ -13,3 +13,5 @@ query = """
 
 # products = pd.read_sql_query(query, conexion)
 # products.plot(x="ProductName", y="Rentabilidad")
+
+print("Haciendo mejoras en la base de datos")
